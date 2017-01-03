@@ -1,0 +1,41 @@
+﻿Thanks for buying this asset !
+If you like it, please rate, it will help me create more awesome assets :) 
+
+Models:
+This package contain 10 soldiers sharing same model with 10 gun.
+Models are skinned with animations. 
+Models have BlendShapes - you can change characters thickness form 0 (fat) to 100 (skinny) in Skinned Mesh Renderer component 
+
+Shaders and materials:
+Materials using  Diffuse with cutoff transparent on RGBA. You can use psd file. With only color change under groups like "Pants, vest, boots, belt etc." Hide camuflage if you like on vest and pants group.  
+Animations:
+Two types: legacy and humanoid,
+30 animations:
+● RunForward, RunRight, RunLeft, RunBack
+● Sprint
+● RunForwardShoot, RunRightShoot, RunLeftShoot, RunBackShoot
+● Idle 
+● Idle2
+● Shoot 
+● JumpAndShoot (start,loop,end) 
+● Jump (start,loop,end)
+● GetCover (start,loop,end)
+● ShootFromCover 
+● RollFront, RollBack, RollLeft, RollRight
+● Lying 
+● LyingShoot 
+● CrawlingFront, CrawlingRight, CrawlingLeft, CrawlingBack 
+● ReloadWeapon  
+● Damage
+● Death1 
+● Death2
+
+Particles:
+There is 1 particle effect for shooting. You have to play this particle on "shooting" event. 
+
+If you have any question or request, please send me a email :)
+3dasset@gmail.com
+
+Thanks !
+Dominic 
+
